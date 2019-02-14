@@ -1,0 +1,6 @@
+dokumentasi dari project ini:
+1.import database busres.sql yang ada di folder ini kemudian beri nama busres
+2.lalu ketikkan http://localhost/busres pada url browser jangan lupa aktifkan xamppnya
+3.kemudian login dengan 
+  username:aldytamara password:aldytamara
+4.kemudian coba pesan sebuah bus.
